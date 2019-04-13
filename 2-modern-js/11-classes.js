@@ -1,5 +1,5 @@
 class Person {
-  constructor(name) {
+  constructor(name) { //The constructor function is called every time we instantiate an object out of the class
     this.name = name;
   }
   greet() {

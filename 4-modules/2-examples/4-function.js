@@ -14,3 +14,5 @@ module.exports = title => `
   </body>
   </html>
 `;
+
+//title is argument of function

@@ -6,7 +6,7 @@ if (true) {
   // Block Scope
 }
 
-for (var i = 1; i <= 10; i++) {
+for (var i = 1; i <= 10; i++) { //==>i is global use let to make it local
   // Block Scope
 }
 
